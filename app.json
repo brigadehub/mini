@@ -1,0 +1,17 @@
+{
+  "name": "Brigadehub Mini",
+  "description": "The minimal API distro of Brigadehub. No UIs, just sweet sweet data 🍬",
+  "website": "http://brigadehub.github.io",
+  "success_url": "/login",
+  "addons": [
+    "papertrail",
+   {
+      "plan": "mongolab",
+      "as": "MONGODB"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production",
+    "JWT_SECRET": "Change this to be a secure passphrase (e.g c0d3for$anFr@n)"
+  }
+}
