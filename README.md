@@ -2,6 +2,8 @@
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brigadehub/mini.svg)](https://greenkeeper.io/)
+
 # Mini
 
 [![TrustOSS Compliant](http://trustoss.org/badge_version.svg)](http://trustoss.org)
